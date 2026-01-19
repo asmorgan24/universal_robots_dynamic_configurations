@@ -1,4 +1,4 @@
-# Universal Robots Dynamic Parameters ande Configurations
+# Universal Robots Dynamic Parameters and Configurations
 This repository serves as a community-supported source of dynamic parameters for Universal Robots. 
 
 ## How to read
